@@ -14,3 +14,4 @@ https://nbviewer.jupyter.org/
 * [4. 閥值處理](https://github.com/Leolewis5/OpenCV/blob/master/4.%20Threshold.ipynb)
 * [5. 基礎幾何圖形繪製](https://github.com/Leolewis5/OpenCV/blob/master/5.%20Geometric_image.ipynb)
 * [6. 影像幾何變形](https://github.com/Leolewis5/OpenCV/blob/master/6.%20Image_Geometric_Transform.ipynb)
+* [7. 圖像Size調整](https://github.com/Leolewis5/OpenCV/blob/master/7.%20Resize.ipynb)
