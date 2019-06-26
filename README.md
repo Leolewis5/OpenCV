@@ -16,3 +16,4 @@ https://nbviewer.jupyter.org/
 * [6. 影像幾何變形](https://github.com/Leolewis5/OpenCV/blob/master/6.%20Image_Geometric_Transform.ipynb)
 * [7. 圖像Size調整](https://github.com/Leolewis5/OpenCV/blob/master/7.%20Resize.ipynb)
 * [8. 邊緣檢測](https://github.com/Leolewis5/OpenCV/blob/master/8.%20Image_Edge_Detection.ipynb)
+* [9. 影像直方圖](https://github.com/Leolewis5/OpenCV/blob/master/9.%20Image_Histogram.ipynb)
